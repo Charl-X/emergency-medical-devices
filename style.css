@@ -161,6 +161,7 @@ CSS Flexbox creates responsive layouts for images, text, and other content. Reus
    flex-wrap: wrap;
    padding: 0 4px;
    justify-content: center;
+   max-height: 50%;
  }
 
 /* Change max-width value depending on number of columns. */
